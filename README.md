@@ -7,7 +7,6 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 ### 🔭 I'm currently working on
 - **[Guy Natan Finance](https://guynatan.com)** - A professional Hebrew financial education mobile app with AI-powered stock analysis
 - Building a **real-time notification system** using Kafka, Cloud Run, and Firebase Cloud Messaging
-- Deploying **microservices on Google Cloud Platform** with automated CI/CD pipelines
 - Implementing **multi-layer caching strategies** to optimize API costs and performance
 
 ### 🌱 I'm currently learning
