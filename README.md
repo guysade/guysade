@@ -23,12 +23,6 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 - **Infrastructure as Code** projects (Terraform, Pulumi)
 - **CI/CD pipeline** optimizations
 
-### 🤔 I'm looking for help with
-- Advanced **Kubernetes operators** and custom resource definitions
-- **Cost optimization** strategies for cloud infrastructure
-- **Security best practices** for containerized applications
-- **Multi-cloud** deployment patterns
-
 ### 💬 Ask me about
 - **Google Cloud Platform** (Cloud Run, Cloud Functions, GKE, Firestore)
 - **Docker** and container orchestration
