@@ -40,12 +40,8 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 - Deploying **React Native/Expo** apps with EAS Build
 
 ### 📫 How to reach me
-- **Email**: guysa@example.com
-- **LinkedIn**: [linkedin.com/in/guysasson](https://linkedin.com/in/guysasson)
-- **Website**: [guynatan.com](https://guynatan.com)
-
-### ⚡ Fun fact
-When I'm not automating deployments, you can find me exploring new tech stacks, contributing to open-source projects, or optimizing my home lab setup! I'm also a big fan of Hebrew tech education and building accessible financial tools. 🚀
+- **Email**: guysade4@gmail.com
+- **LinkedIn**: [(https://www.linkedin.com/in/guy-sade/)](https://www.linkedin.com/in/guy-sade/))
 
 ---
 
