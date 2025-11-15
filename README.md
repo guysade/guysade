@@ -1,53 +1,129 @@
 # Hi there 👋, I'm Guy Sade!
 
-I'm a **DevOps Engineer with 5+ years of experience** in CI/CD automation, cloud infrastructure management, and deployment of scalable containerized systems. I'm proficient at designing efficient, reliable, and cost-effective solutions that enhance development workflows and system performance.
+I'm a **DevOps Engineer** passionate about building scalable, reliable infrastructure and automating everything. I love working with cloud technologies, containerization, and CI/CD pipelines to help teams ship faster and more confidently.
 
 ---
 
 ### 🔭 I'm currently working on
-- **[Guy Natan Finance Mobile App](https://guynatan.com)** - Full-stack React Native application for financial portfolio management with real-time stock and cryptocurrency tracking
-- Delivering **DevOps projects on Fiverr** - Optimizing clients' AWS and Docker environments with automated pipelines and infrastructure as code
-- Building **scalable backend infrastructure** using Firebase Cloud Functions and Firestore
-- Implementing **CI/CD pipelines** for automated builds and deployments with optimized caching strategies
+- **[Guy Natan Finance](https://guynatan.com)** - A professional Hebrew financial education mobile app with AI-powered stock analysis
+- Building a **real-time notification system** using Kafka, Cloud Run, and Firebase Cloud Messaging
+- Deploying **microservices on Google Cloud Platform** with automated CI/CD pipelines
+- Implementing **multi-layer caching strategies** to optimize API costs and performance
 
 ### 🌱 I'm currently learning
-- **Kubernetes** advanced orchestration and scaling patterns
-- **Terraform** infrastructure as code best practices
-- **GitOps** workflows and continuous delivery
-- **Monitoring & Observability** with Prometheus and Grafana
-- **Cost optimization** strategies for cloud infrastructure
+- **Kubernetes** orchestration and advanced scaling patterns
+- **Terraform** for infrastructure as code
+- **GitOps** workflows with ArgoCD and Flux
+- **Observability** with Prometheus, Grafana, and OpenTelemetry
+- **Service mesh** architectures (Istio, Linkerd)
 
 ### 👯 I'm looking to collaborate on
-- Open-source **DevOps automation tools**
-- **CI/CD pipeline** optimization projects
+- Open-source **DevOps tools** and automation scripts
 - **Cloud-native** application deployments
-- **Infrastructure as Code** implementations
-- **Containerization** and orchestration projects
+- **Monitoring and observability** solutions
+- **Infrastructure as Code** projects (Terraform, Pulumi)
+- **CI/CD pipeline** optimizations
 
 ### 🤔 I'm looking for help with
-- Advanced **Kubernetes operators** and custom resources
-- **Multi-cloud** deployment strategies
-- **Service mesh** architectures (Istio, Linkerd)
-- **Security automation** in DevOps pipelines
+- Advanced **Kubernetes operators** and custom resource definitions
+- **Cost optimization** strategies for cloud infrastructure
+- **Security best practices** for containerized applications
+- **Multi-cloud** deployment patterns
 
 ### 💬 Ask me about
-- **CI/CD Pipelines**: Jenkins, Helm, GitHub Actions
-- **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform
-- **Containerization**: Docker, Kubernetes, VMware
-- **Infrastructure as Code**: Ansible, Terraform
-- **Scripting & Automation**: Groovy, Python, Bash, PowerShell
-- **Firebase**: Cloud Functions, Firestore, Authentication
-- **React Native/Expo** deployments and mobile app infrastructure
+- **Google Cloud Platform** (Cloud Run, Cloud Functions, GKE, Firestore)
+- **Docker** and container orchestration
+- **CI/CD** with GitHub Actions, Cloud Build
+- **Firebase** (Auth, Firestore, Cloud Messaging)
+- **Kafka** and event-driven architectures
+- **Infrastructure automation** and scripting (Bash, PowerShell, Python)
+- Deploying **React Native/Expo** apps with EAS Build
 
 ### 📫 How to reach me
-- **Email**: guysade4@gmail.com
-- **LinkedIn**: [linkedin.com/in/guy-sade](https://linkedin.com/in/guy-sade)
+- **Email**: guysa@example.com
+- **LinkedIn**: [linkedin.com/in/guysasson](https://linkedin.com/in/guysasson)
+- **Website**: [guynatan.com](https://guynatan.com)
+
+### ⚡ Fun fact
+When I'm not automating deployments, you can find me exploring new tech stacks, contributing to open-source projects, or optimizing my home lab setup! I'm also a big fan of Hebrew tech education and building accessible financial tools. 🚀
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+- Google Cloud Platform (GCP), Firebase
+- Docker, Cloud Run, Cloud Functions
+- Kafka, Pub/Sub
+
+**CI/CD & Automation**
+- GitHub Actions, Cloud Build
+- EAS Build (Expo)
+- Bash/PowerShell scripting
+
+**Databases & Storage**
+- Firestore, PostgreSQL
+- Redis caching
+- Cloud Storage, Cloudinary
+
+**Monitoring & Logging**
+- Cloud Logging, Cloud Monitoring
+- Firebase Analytics
+
+**Programming**
+- TypeScript, JavaScript, Python
+- Infrastructure automation
+
 ---
 
 <div align="center">
 
-💼 **Open to DevOps opportunities and freelance projects!**
+**"Automate everything, monitor everything, deploy fearlessly."**
 
-📧 Reach out: guysade4@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
 
 </div>
+
+---
+
+### 📊 Recent Projects
+
+**Guy Natan Finance Mobile App**
+- Built complete mobile app with Expo + React Native + TypeScript
+- Integrated Bridgewise AI for stock analysis and real-time alerts
+- Deployed serverless Kafka consumer on Cloud Run for push notifications
+- Implemented multi-layer caching (memory → SQLite → API)
+- Full RTL Hebrew support with custom AAA fonts
+
+**Real-Time Alert System**
+- Kafka stream processing with Cloud Run
+- Firebase Cloud Messaging for push notifications
+- Firestore for user preferences and alert history
+- Rate limiting and deduplication logic
+- Multi-language support (7 languages)
+
+**Infrastructure Automation**
+- Firebase Functions deployment pipelines
+- Docker containerization for microservices
+- Cloud Run CI/CD with automated builds
+- Infrastructure monitoring and logging
+
+---
+
+### 🌟 Skills & Tools
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
