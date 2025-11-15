@@ -38,33 +38,6 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 
 ---
 
-### 🛠️ Tech Stack
-
-**Cloud & Infrastructure**
-- Google Cloud Platform (GCP), Firebase
-- Docker, Cloud Run, Cloud Functions
-- Kafka, Pub/Sub
-
-**CI/CD & Automation**
-- GitHub Actions, Cloud Build
-- EAS Build (Expo)
-- Bash/PowerShell scripting
-
-**Databases & Storage**
-- Firestore, PostgreSQL
-- Redis caching
-- Cloud Storage, Cloudinary
-
-**Monitoring & Logging**
-- Cloud Logging, Cloud Monitoring
-- Firebase Analytics
-
-**Programming**
-- TypeScript, JavaScript, Python
-- Infrastructure automation
-
----
-
 ### 📊 Recent Projects
 
 **Guy Natan Finance Mobile App**
