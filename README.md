@@ -72,20 +72,6 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 
 ---
 
-<div align="center">
-
-**"Automate everything, monitor everything, deploy fearlessly."**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
-
-</div>
-
----
-
 ### 📊 Recent Projects
 
 **Guy Natan Finance Mobile App**
