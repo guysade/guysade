@@ -12,9 +12,8 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 ### 🌱 I'm currently learning
 - **Kubernetes** orchestration and advanced scaling patterns
 - **Terraform** for infrastructure as code
-- **GitOps** workflows with ArgoCD and Flux
-- **Observability** with Prometheus, Grafana, and OpenTelemetry
-- **Service mesh** architectures (Istio, Linkerd)
+- **GitOps** workflows with ArgoCD
+- **Observability** with Prometheus, Grafana, and 
 
 ### 👯 I'm looking to collaborate on
 - Open-source **DevOps tools** and automation scripts
