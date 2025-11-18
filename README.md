@@ -6,6 +6,7 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 
 ### 🔭 I'm currently working on
 - **[Guy Natan Finance](https://guynatan.com)** - A professional Hebrew financial education mobile app with AI-powered stock analysis
+- **[Soccer Team Maker](https://github.com/guysade/soccer-team-maker)** - TypeScript application for organizing and balancing soccer teams
 - Building a **real-time notification system** using Kafka, Cloud Run, and Firebase Cloud Messaging
 - Implementing **multi-layer caching strategies** to optimize API costs and performance
 
@@ -13,7 +14,7 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 - **Kubernetes** orchestration and advanced scaling patterns
 - **Terraform** for infrastructure as code
 - **GitOps** workflows with ArgoCD
-- **Observability** with Prometheus, Grafana, and 
+- **Observability** with Prometheus, Grafana, and OpenTelemetry
 
 ### 👯 I'm looking to collaborate on
 - Open-source **DevOps tools** and automation scripts
@@ -33,31 +34,34 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 
 ### 📫 How to reach me
 - **Email**: guysade4@gmail.com
-- **LinkedIn**: [(https://www.linkedin.com/in/guy-sade/)](https://www.linkedin.com/in/guy-sade/))
+- **LinkedIn**: [linkedin.com/in/guy-sade](https://www.linkedin.com/in/guy-sade/)
 
 ---
 
-### 📊 Recent Projects
+### 📊 Featured Projects
 
-**Guy Natan Finance Mobile App**
+**[Guy Natan Finance Mobile App](https://guynatan.com)**
 - Built complete mobile app with Expo + React Native + TypeScript
 - Integrated Bridgewise AI for stock analysis and real-time alerts
 - Deployed serverless Kafka consumer on Cloud Run for push notifications
 - Implemented multi-layer caching (memory → SQLite → API)
 - Full RTL Hebrew support with custom AAA fonts
 
-**Real-Time Alert System**
-- Kafka stream processing with Cloud Run
-- Firebase Cloud Messaging for push notifications
-- Firestore for user preferences and alert history
-- Rate limiting and deduplication logic
-- Multi-language support (7 languages)
+**[Soccer Team Maker](https://github.com/guysade/soccer-team-maker)**
+- TypeScript application for organizing and balancing soccer teams
+- Modern web interface for team management
+- Automated team balancing algorithms
 
-**Infrastructure Automation**
-- Firebase Functions deployment pipelines
-- Docker containerization for microservices
-- Cloud Run CI/CD with automated builds
+**[CI/CD Pipelines](https://github.com/guysade/CICD)**
+- GitHub Actions workflow demonstrations
+- Docker containerization examples
 - Infrastructure monitoring and logging
+- DevOps automation best practices
+
+**[Bash Automation Scripts](https://github.com/guysade/bashScripting)**
+- Collection of useful automation utilities
+- System administration tools
+- Linux/Unix scripting examples
 
 ---
 
@@ -74,3 +78,9 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+*Building one commit at a time* ⚡
