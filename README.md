@@ -6,7 +6,7 @@ I'm a **DevOps Engineer** passionate about building scalable, reliable infrastru
 
 ### 🔭 I'm currently working on
 - **[Guy Natan Finance](https://guynatan.com)** - A professional Hebrew financial education mobile app with AI-powered stock analysis
-- **[Soccer Team Maker](https://github.com/guysade/soccer-team-maker)** - TypeScript application for organizing and balancing soccer teams
+- **[Soccer Team Maker](https://github.com/guysade/soccer-team-maker)** - TypeScript application for organizing and balancing soccer teams with constraints
 - Building a **real-time notification system** using Kafka, Cloud Run, and Firebase Cloud Messaging
 - Implementing **multi-layer caching strategies** to optimize API costs and performance
 
